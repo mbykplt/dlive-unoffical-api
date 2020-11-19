@@ -1,4 +1,5 @@
 # dlive-unoffical-api
 <p>DLive yayın platformu için, istenilen kişinin yayında olup olmadığını kontrol eden basit bir API sistemi.<br>
 API, NodeJS ile oluşturulmuştur.NodeJS üzerinde bu sistem aktif edildiği zaman DLive üzerinden yayıncı sorgulaması yapıp, yayında olup olmadığını öğrenebilir.Çeşitli platformlarda kullanabilirsiniz.
+Kaynak kodlar için "index.js" kısmını inceleyebilirsiniz.
 <p>
