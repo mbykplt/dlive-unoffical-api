@@ -36,4 +36,4 @@ app.get("/live",function(req,result){
     }
   })
 })
-app.listen(3000 || process.env.PORT); //3000 portunda dinleniyor proje.
+app.listen(3000 || process.env.TOKEN ,()=>{console.log("API Hazır, 3000 portunda aktif olarak çalışıyor...")})
